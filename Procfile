@@ -1,1 +1,1 @@
-web: gunicorn YalantisPythonSchool.wsgi:application --log-file -
+web: gunicorn catalog.wsgi: --log-file -
