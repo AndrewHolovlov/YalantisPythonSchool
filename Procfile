@@ -1,0 +1,1 @@
+web: gunicorn YalantisPythonSchool.wsgi --log-file -
